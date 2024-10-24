@@ -1,0 +1,16 @@
+I <your name>, is working as <your designation> for the proejct <#project_of_sailesh_X#>.
+
+from sailesh:
+    1. he will assign the task, have to submit it.
+    2. he will discuss before assigning the task, considiering such as capabiliity.
+
+from <your name>
+    1. have to submit the task,
+    2. should not disclose the code, maintain privacy. in case of lack of secrecy, subjected to bear loss.
+
+payment:
+    payment is task basis. project duration is 2 months. will be paid at the end of month or task complete which ever is earlier. with sum of 
+    Nrs. <amount>
+
+
+Note. sign this document, and upload in nda_signed folder. will be read only after uploading.

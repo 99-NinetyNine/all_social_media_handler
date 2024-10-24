@@ -1,0 +1,42 @@
+requirements
+
+a one steop platform to create edit delete social media contents in exisiting social media.
+
+feasibility:
+a digital marketing team has to publish video, photo, text etc to facebook, linkedin, twitter, instagram etc.
+
+
+project mile stones to achiveve:
+Week 1:
+    a. social media platforms to use
+    b. search and store API endpoints and their api keys accessing logic. docs 
+    c. search and strore criteria for each feature of api endpoint.
+
+Week 2.
+    a. develop a react Native app. Find ways to hide code from customer.
+    b. design the basic UIs. just simplest UI possible. but component, so replacing will be easier later by UI dev.
+    c. make test data for each feature. dev should write test data that matches and violate criteria.
+
+week 3.
+    a. now team has got how to write code. now issue will be dealt in with the reusability.coding skills etc.
+    b. code must be docume
+
+Note.    most of us know python, but i think we need to do react native. alright, mostly because of the issues. 
+
+
+
+##########3
+my work 
+#######3
+ ==>  androiod studio is needed to run react native expo. so i am kind of using just react for now. a sinple website. 
+ ==> let me code. now.
+## but i found react native way complicated.
+
+but the kivy is better since i know alredy python. as well, if functionality is already written in python, it wpuld be eaiser to migrate to 
+django. but most of the times we need what is referred as UI. 
+
+well, so for ui if needed in web, we will use react. but for cross platform we will use kivy. now lets code.
+
+
+####
+guidelines => guidelines.txt
