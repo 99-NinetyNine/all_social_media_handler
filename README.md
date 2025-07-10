@@ -12,6 +12,6 @@ Well this is not going to save a  lot of time, this has potential to save few mi
 
 Challenges might be, not all social media could provide API and complex user interaction might be needed.
 
-Anyways, I could not resist Myself automating this minor things, and I felt demotivated after sharing idea to my friends, so this project is not "active". 
+Anyways, I could not resist Myself automating these minor things, and I felt demotivated after I got "not to collaorative" response from my friends, so this project is not "active". 
 
 Haha, But i know this is GEM.   
